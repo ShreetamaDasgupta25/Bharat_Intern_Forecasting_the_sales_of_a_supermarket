@@ -20,4 +20,10 @@ The dashboard can be explored at:
 
 https://app.powerbi.com/view?r=eyJrIjoiNzNlMDk0YTgtY2U2NS00ODNiLWFmN2ItZTNlNzNjNDAxOWU2IiwidCI6IjcxNGE1MDM0LWVmYmYtNDMxOS1iZDBmLTBkOWI5ZTQ4NDZjNiJ9
 
+<img width="644" alt="1" src="https://github.com/ShreetamaDasgupta25/Bharat_Intern_Forecasting_the_sales_of_a_supermarket/assets/126397614/ab0d3fbc-ed7b-4260-adb4-b63642030983">
+
+<img width="650" alt="2" src="https://github.com/ShreetamaDasgupta25/Bharat_Intern_Forecasting_the_sales_of_a_supermarket/assets/126397614/605db6ea-0673-44cb-84e2-0f68e0f4a6b4">
+
+<img width="655" alt="3" src="https://github.com/ShreetamaDasgupta25/Bharat_Intern_Forecasting_the_sales_of_a_supermarket/assets/126397614/a1959a44-f315-4e2d-bacf-d9a9c45a605c">
+
 
